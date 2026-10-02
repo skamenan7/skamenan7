@@ -1,6 +1,6 @@
 # Hi, I'm Sumanth
 
-I work primarily in Rust on AI gateways and proxy infrastructure, with a focus on system design that makes API contracts, trust boundaries and failure behavior explicit. I'm an upstream maintainer and a core technical contributor to [OGX](https://github.com/ogx-ai/ogx), working across provider architecture, authentication, APIs, testing, code review and release delivery. That work spans the project, not just one provider, and builds on my contributions to [Llama Stack](https://github.com/llamastack/llama-stack) and the [OpenDataHub distribution](https://github.com/opendatahub-io/ogx-distribution).
+I work primarily in Rust and Python on AI gateways and proxy infrastructure, with a focus on system design that makes API contracts, trust boundaries and failure behavior explicit. I'm an upstream maintainer and a core technical contributor to [OGX](https://github.com/ogx-ai/ogx), working across provider architecture, authentication, APIs, testing, code review and release delivery. That work spans the project, not just one provider, and builds on my contributions to [Llama Stack](https://github.com/llamastack/llama-stack) and the [OpenDataHub distribution](https://github.com/opendatahub-io/ogx-distribution).
 
 A few Rust and system-design examples from [Praxis AI](https://github.com/praxis-proxy/ai):
 
